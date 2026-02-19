@@ -11,8 +11,8 @@ const App = () => {
     <div className="k">
       {/* <h1 style={{textAlign:"center"}}>Sticerst</h1> */}
       {/* <NameForm></NameForm> */}
-      {/* <Render_Sticers/> */}
-      <Statistic/>
+      <Render_Sticers/>
+      {/* <Statistic/> */}
     </div>
   );
 };
